@@ -1,1 +1,2 @@
-# All_Web_html_and_css
+# Index.Html คือไฟล์ Resume
+# Style.css คือไฟล์ CSSของhtml
